@@ -1,0 +1,28 @@
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+.metadata/
+*.launch
+
+# Build files
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.hex
+*.bin
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Temporary
+*.tmp
