@@ -21,7 +21,7 @@ The project implements a modular embedded communication architecture capable of:
 
 # Communication Flow
 
-```text
+
 Modbus RTU Slave
         ↓ RS485/UART
 STM32H5 Gateway Firmware
