@@ -1,4 +1,3 @@
-````markdown
 # STM32H5 Industrial Ethernet Gateway
 
 RTOS-based industrial communication gateway firmware for **Modbus RTU ↔ Ethernet translation** using **STM32H5**, **FreeRTOS**, UART/RS485 communication, and custom Ethernet frame encapsulation.
@@ -42,7 +41,6 @@ Ethernet TX Queue
 Ethernet TX Task
         ↓ RMII Ethernet
 PC / Wireshark
-````
 
 ---
 
